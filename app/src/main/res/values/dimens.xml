@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">16sp</dimen>
+    <dimen name="margin_top_frame">55sp</dimen>
+    <dimen name="nav_header_height">42dp</dimen>
+    <dimen name="nav_header_dimen">20sp</dimen>
+    <dimen name="itemSizeTextView">30sp</dimen>
+    <dimen name="radiusCorner">15dp</dimen>
+    <dimen name="elevation">3dp</dimen>
+    <dimen name="itemSizeTextViewDescription">16sp</dimen>
+    <dimen name="layoutMarginStart">8dp</dimen>
+    <dimen name="layoutMargitEnd">8dp</dimen>
+    <dimen name="separatorSize">10dp</dimen>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="item_settings">Настройки</string>
+    <string name="about">О приложении</string>
+    <string name="search">Поиск</string>
+    <string name="confirm">Confirm</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="fragment_navigation">Navigation</string>
+    <string name="something_menu_item_1">Something menu item №1</string>
+    <string name="something_menu_item_2">something_menu_item_2</string>
+    <string name="something_menu_item_3">something_menu_item_3</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="update">Изменить</string>
+    <string name="delete">Удалить</string>
+</resources>
